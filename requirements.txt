@@ -1,0 +1,9 @@
+numpy>=1.23.0
+librosa>=0.10.0
+soundfile>=0.12.0
+pypinyin>=0.47.0
+matplotlib>=3.5.0
+tensorboard>=2.13.0
+tqdm>=4.65.0
+pyyaml>=6.0
+gradio>=4.0.0
